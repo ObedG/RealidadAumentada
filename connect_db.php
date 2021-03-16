@@ -1,9 +1,9 @@
 <?php
 
-define('USER', 'up1bqfux0eibfreq');
-define('PASSWORD', 'Oe4HhihpfWtMz8oLw7DZ');
-define('HOST', 'bdyzcfehrcomfhksbhmx-mysql.services.clever-cloud.com');
-define('DATABASE', 'bdyzcfehrcomfhksbhmx');
+define('USER', 'ub9y3sjdehq1dkw5');
+define('PASSWORD', 'ztTPz5fUGn33DV31G5Vk');
+define('HOST', 'bqjqidercnagmzki3r5n-mysql.services.clever-cloud.com');
+define('DATABASE', 'bqjqidercnagmzki3r5n');
     
     
  
