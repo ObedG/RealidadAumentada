@@ -1,8 +1,8 @@
 <?php
-    define('URL', 'http://app-a048003f-c2d8-447d-ae4d-61eaaa1eb11e.cleverapps.io/');
-    define('HOST', 'bdyzcfehrcomfhksbhmx-mysql.services.clever-cloud.com');
-    define('DB', 'bdyzcfehrcomfhksbhmx');
-    define('USER', 'up1bqfux0eibfreq');
-    define('PASSWORD', 'Oe4HhihpfWtMz8oLw7DZ');
+    define('URL', 'http://app-937771dc-c3a5-4ddc-bf91-557125dae206.cleverapps.io/');
+    define('HOST', 'bqjqidercnagmzki3r5n-mysql.services.clever-cloud.com');
+    define('DB', 'bqjqidercnagmzki3r5n');
+    define('USER', 'ub9y3sjdehq1dkw5');
+    define('PASSWORD', 'ztTPz5fUGn33DV31G5Vk');
     define('CHARSET', 'utf8mb4');
 ?>
